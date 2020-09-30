@@ -69,6 +69,42 @@
       "SubCategories": []
     },
     {
+      "Id": "e58f9087-2dcc-4020-8bb1-6519f3d19f01",
+      "Name": "Sales",
+      "Image": "",
+      "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "SubjectId": null,
+      "Source": "Infexious",
+      "SubCategories": []
+    },
+    {
+      "Id": "209dda59-df33-4fc8-af09-6bb4901dd895",
+      "Name": "Procedures",
+      "Image": "",
+      "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "SubjectId": null,
+      "Source": "Infexious",
+      "SubCategories": []
+    },
+    {
+      "Id": "dfe1599a-942b-4acd-9089-5c989b1c27e4",
+      "Name": "Marketing",
+      "Image": "",
+      "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "SubjectId": null,
+      "Source": "Infexious",
+      "SubCategories": []
+    },
+    {
+      "Id": "180c8630-9e1e-4c66-960f-10713c5d16d2",
+      "Name": "Project Engagement",
+      "Image": "",
+      "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "SubjectId": null,
+      "Source": "Infexious",
+      "SubCategories": []
+    },
+    {
       "Id": "b93fc040-e5ab-4978-a45e-2c371d68f3be",
       "Name": "Employment",
       "Image": "images/categories/jch-logo.png",
@@ -95,6 +131,15 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "518a9ca3-fa43-4dff-9196-1205526b9efa",
+      "Name": "Systems and Tools",
+      "Image": "",
+      "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "SubjectId": null,
+      "Source": "Infexious",
+      "SubCategories": []
     }
   ],
   "Audiences": [
