@@ -4,6 +4,11 @@
       "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
       "Name": "Excel",
       "Subjects": []
+    },
+    {
+      "Id": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "Name": "JCH Projects",
+      "Subjects":[]
     }
   ],
   "Categories": [
@@ -22,6 +27,15 @@
           "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
           "SubjectId": null,
           "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
+          "Name": "JCH Media",
+          "Image": "images/categories/jch-logo.png",
+          "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
+          "SubjectId": null,
+          "Source": "JCH Media",
           "SubCategories": []
         }
       ]
@@ -82,7 +96,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "JCH Media"
   ],
   "Levels": [
     {
