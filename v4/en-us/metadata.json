@@ -1,0 +1,137 @@
+{
+  "Technologies": [
+    {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "Name": "Excel",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Products",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
+          "Name": "Excel",
+          "Image": "images/categories/excel.png",
+          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+      "Name": "Admin"
+    },
+    {
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "HelpDesk"
+    },
+    {
+      "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
+      "Name": "Change Manager"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champions/Trainer"
+    },
+    {
+      "Id": "d093e0b6-b9f1-4b46-877c-0a49e989ee40",
+      "Name": "Executive Assistant"
+    },
+    {
+      "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
+      "Name": "VIP"
+    },
+    {
+      "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "Name": "End User"
+    },
+    {
+      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
+      "Name": "Content Editor"
+    },
+    {
+      "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
+      "Name": "Content Manager"
+    },
+    {
+      "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
+      "Name": "Group Owner"
+    },
+    {
+      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
+      "Name": "Site Sponsor"
+    },
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn"
+  ],
+  "Levels": [
+    {
+      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "Name": "New"
+    },
+    {
+      "Id": "9d1fab25-ed9c-404e-941b-41e428d18726",
+      "Name": "Updated"
+    },
+    {
+      "Id": "90fe6290-e063-4778-a8a1-7531c2a0a40e",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "4eb25076-b5d0-41cb-afa6-4e0c5a1c9664",
+      "Name": "Retired"
+    },
+    {
+      "Id": "42be48f6-1f82-4fda-a757-add2499677d9",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+  },
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ]
+}
