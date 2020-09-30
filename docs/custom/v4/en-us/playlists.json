@@ -18,7 +18,7 @@
   },
   {
     "Id": "755d2250-2231-476f-b490-75ba0a7fb5d0",
-    "Title": "JCH Test",
+    "Title": "JCH Media Offerings",
     "Image": "images/playlists/jch-logo.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -26,7 +26,7 @@
     "SubjectId": "",
     "Source": "JCH Media",
     "CatId": "8ff138bb-608f-472b-9333-d7581227e56",
-    "Description": "JCH",
+    "Description": "Innovate and imagine new ways to manage, deliver and present data through SharePoint that is visually stunning.",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
