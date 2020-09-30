@@ -33,11 +33,11 @@
     },
     {
       "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "Services",
+      "Name": "Products",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "JCH Media",
+      "Source": "Infexious",
       "SubCategories": [
         {
           "Id": "8ff138bb-608f-472b-9333-d7581227e56",
@@ -45,18 +45,8 @@
           "Image": "images/categories/jch-logo.png",
           "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
           "SubjectId": null,
-          "Source": "JCH Media",
-          "SubCategories": [
-            {
-              "Id": "7810ab60-b213-4a10-b368-63e2bae80922",
-              "Name": "Products",
-              "Image": "images/categories/jch-logo.png",
-              "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
-              "SubjectId": "",
-              "Source": "JCH Media",
-              "SubCategories": []
-            }
-          ]
+          "Source": "Infexious",
+          "SubCategories": []
         }
       ]
     }
@@ -117,7 +107,7 @@
     "M365",
     "Microsoft",
     "LinkedIn",
-    "JCH Media"
+    "Infexious"
   ],
   "Levels": [
     {
