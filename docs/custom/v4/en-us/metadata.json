@@ -53,7 +53,16 @@
     {
       "Id": "fe1f4cf2-50af-41ca-bb36-dbfbce00f0c8",
       "Name": "Services",
-      "Image": "images/categories/jch-logo.png",
+      "Image": "",
+      "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "SubjectId": null,
+      "Source": "Infexious",
+      "SubCategories": []
+    },
+    {
+      "Id": "bee83e4f-0d05-423e-bfc6-425d51e854e7",
+      "Name": "Training",
+      "Image": "",
       "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
       "SubjectId": null,
       "Source": "Infexious",
