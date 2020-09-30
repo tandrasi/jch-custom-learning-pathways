@@ -1,22 +1,5 @@
 [
   {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Excel Quick Start",
-    "Image": "images/playlists/excel_quick_start.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
-    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "Get up and running quickly with our Excel Quick Start. Learn how to create a workbook, save to OneDrive, analyze and format data, and share workbooks.",
-    "StatusTagId": "",
-    "StatusNote": null,
-    "Assets": [
-      "94b00f50-5896-479c-b0c5-ff74603b35a3"
-    ]
-  },
-  {
     "Id": "755d2250-2231-476f-b490-75ba0a7fb5d0",
     "Title": "JCH Media Offerings",
     "Image": "images/playlists/collab.jpg",
@@ -31,6 +14,25 @@
     "StatusNote": null,
     "Assets": [
       "ac633048-0baf-4019-b5f4-47e706349ee6"
+    ]
+  },
+  {
+    "Id": "8f026372-069d-4449-a116-938bf5aae7ea",
+    "Title": "Get started with Microsoft 365",
+    "Image": "images/playlists/intro_to_office.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Understand Microsoft 365 basics including Signing in and Getting Started at Office.com.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "b78213e0-d1c5-4d99-917f-75903c5377a4",
+      "b5be6bc0-e9c9-48a0-b9a1-bb366e29390e",
+      "6664ef66-de37-4de4-ac51-b8b5db4b5bb8"
     ]
   }
 ]

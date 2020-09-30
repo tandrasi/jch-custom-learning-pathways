@@ -1,8 +1,8 @@
 {
   "Technologies": [
     {
-      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-      "Name": "Excel",
+      "Id": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+      "Name": "Office 365",
       "Subjects": []
     },
     {
@@ -14,17 +14,17 @@
   "Categories": [
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Office 365",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
-          "Name": "Excel",
-          "Image": "images/categories/excel.png",
-          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Name": "Microsoft 365 Basics",
+          "Image": "images/categories/office_basics.png",
+          "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
