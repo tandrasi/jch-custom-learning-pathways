@@ -34,5 +34,25 @@
       "b5be6bc0-e9c9-48a0-b9a1-bb366e29390e",
       "6664ef66-de37-4de4-ac51-b8b5db4b5bb8"
     ]
+  },
+  {
+    "Id": "fe752d83-36ae-4209-92f8-e340e9bf696e",
+    "Title": "Share and collaborate",
+    "Image": "images/playlists/store_online_and_collaborate.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "Learn how to collaborate with colleagues on your quizzes and forms and share your quiz or form as a template for others to use independently.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "01c6c0a8-ffe9-494d-9c10-e975183b55a8",
+      "97a97677-5730-4a84-9755-c0182404ae33",
+      "abf7940b-f4e7-462b-afda-deed03d6a7e6",
+      "f7b18d2f-e5d1-44da-8d34-ec941041fb8b"
+    ]
   }
 ]

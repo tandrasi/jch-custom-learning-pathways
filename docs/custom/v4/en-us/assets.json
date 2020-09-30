@@ -42,5 +42,49 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "01c6c0a8-ffe9-494d-9c10-e975183b55a8",
+    "Title": "Share files in Microsoft 365",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/365-8f63c80b-9e19-4cd3-ba5b-dc94089459ce?embed=true",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "97a97677-5730-4a84-9755-c0182404ae33",
+    "Title": "Co-author",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/75d50118-a87a-423f-99f1-428199907c72?embed=true",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "abf7940b-f4e7-462b-afda-deed03d6a7e6",
+    "Title": "Use @mentions",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/f17b891a-4fc9-46d6-8581-6a2b3b0ae0ae?embed=true",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f7b18d2f-e5d1-44da-8d34-ec941041fb8b",
+    "Title": "Follow-ups",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/de33680b-bcb2-4714-8811-7e3e6c00dd8b?embed=true",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
