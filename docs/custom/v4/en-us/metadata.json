@@ -8,7 +8,7 @@
     {
       "Id": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
       "Name": "JCH Projects",
-      "Subjects":[]
+      "Subjects": []
     }
   ],
   "Categories": [
@@ -28,10 +28,20 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
-        },
+        }
+      ]
+    },
+    {
+      "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
+      "Name": "Services",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "JCH Media",
+      "SubCategories": [
         {
-          "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-          "Name": "JCH Media",
+          "Id": "8ff138bb-608f-472b-9333-d7581227e56",
+          "Name": "SharePoint Intranets",
           "Image": "images/categories/jch-logo.png",
           "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
           "SubjectId": null,
