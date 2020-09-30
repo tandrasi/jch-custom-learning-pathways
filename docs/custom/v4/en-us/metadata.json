@@ -57,7 +57,17 @@
       "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
       "SubjectId": null,
       "Source": "Infexious",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "338afe8b-c35a-40e4-91c6-5635896208fc",
+          "Name": "",
+          "Image": "",
+          "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
+          "SubjectId": null,
+          "Source": "Infexious",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
