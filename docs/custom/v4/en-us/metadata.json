@@ -61,7 +61,35 @@
         {
           "Id": "338afe8b-c35a-40e4-91c6-5635896208fc",
           "Name": "",
-          "Image": "",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
+          "SubjectId": null,
+          "Source": "Infexious",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "b93fc040-e5ab-4978-a45e-2c371d68f3be",
+      "Name": "Employment",
+      "Image": "images/categories/jch-logo.png",
+      "TechnologyId": "c45aa63-4470-4e82-95ef-fb8d48ec9f47",
+      "SubjectId": null,
+      "Source": "Infexious",
+      "SubCategories": [
+        {
+          "Id": "0acf22d7-32bd-4131-9b37-3002b6ead15f",
+          "Name": "Onboarding",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
+          "SubjectId": null,
+          "Source": "Infexious",
+          "SubCategories": []
+        },
+        {
+          "Id": "0acf22d7-32bd-4131-9b37-3002b6ead15f",
+          "Name": "Offboarding",
+          "Image": "images/categories/work_remotely.png",
           "TechnologyId": "ec45aa63-4470-4e82-95ef-fb8d48ec9f47",
           "SubjectId": null,
           "Source": "Infexious",
